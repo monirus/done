@@ -1,0 +1,24 @@
+
+jsquid:S1192S"GDefine a constant instead of duplicating this literal "Name: " 3 times.(Íãêäûÿÿÿÿ8ÓˆûŠ¾-
+V
+squid:S106M"9Replace this use of System.out or System.err by a logger.(áÅÉ8ÿş…‰¾-
+V
+squid:S106q"9Replace this use of System.out or System.err by a logger.(ÅÍÅú8¢¦ßŠ¾-
+[
+squid:S106x"9Replace this use of System.out or System.err by a logger.(ÊÔèşÿÿÿÿ8ÓˆûŠ¾-
+V
+squid:S106N"9Replace this use of System.out or System.err by a logger.(“‡üâ8èÛŒ‰¾-
+[
+squid:S106]"9Replace this use of System.out or System.err by a logger.( Ù“˜ûÿÿÿÿ8±®ö‰¾-
+[
+squid:S106S"9Replace this use of System.out or System.err by a logger.(Íãêäûÿÿÿÿ8İì‰¾-
+psquid:S1192S"MDefine a constant instead of duplicating this literal ", Category: " 3 times.(Íãêäûÿÿÿÿ8ÓˆûŠ¾-
+V
+squid:S106V"9Replace this use of System.out or System.err by a logger.(ê…ìˆ8ƒ¹ò‰¾-
+psquid:S1192S"MDefine a constant instead of duplicating this literal ", Quantity: " 3 times.(Íãêäûÿÿÿÿ8ÓˆûŠ¾-
+msquid:S1192S"JDefine a constant instead of duplicating this literal ", Price: " 3 times.(Íãêäûÿÿÿÿ8ÓˆûŠ¾-
+V
+squid:S106e"9Replace this use of System.out or System.err by a logger.(­ğŞÚ8óŠ¾-
+[
+squid:S106b"9Replace this use of System.out or System.err by a logger.(£åü‹ûÿÿÿÿ8ü»›Š¾-
+usquid:S3776K"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(•µœùÿÿÿÿ8¼ì÷Š¾-
